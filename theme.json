@@ -1,0 +1,8 @@
+{ "sheets" : [
+    "scrollbars.css",
+    "new-tabs.css",
+    "minibuffer.css",
+    "mode-line.css",
+    "url-panel.css"
+  ]
+}
