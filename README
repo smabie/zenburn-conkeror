@@ -5,3 +5,9 @@ just place the directory into your conkeror config directory
 [~/.conkerorc] with:
 
 theme_load("zenburn-conkeror");
+
+Note: 
+This theme uses the excellent Consolas font. I would recommend Inconsolas if 
+you don't want to use a MS font. To use Inconsolas or any other font 
+with this conkeror theme, just change all occurances of Consolas to 
+Inconsolas or whatever.
